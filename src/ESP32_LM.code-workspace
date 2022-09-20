@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP32_LM"
+		},
+		{
+			"name": "ControlLCT",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"math.h": "c"
+		}
+	}
+}
