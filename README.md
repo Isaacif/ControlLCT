@@ -1,3 +1,3 @@
 # ControlLCT
 
-A Brushed dc motor parameter estimator using genetic algorithms 
+A brushed dc motor parameter estimator using genetic algorithms 
