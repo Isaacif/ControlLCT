@@ -18,7 +18,6 @@ int64_t time_step = 1.41;
 
 void IRAM_ATTR timer_group0_isr(void *para) {
 
-    printf("Interrupt");
     uint32_t timer_intr = timer_group_get_intr_status_in_isr(TIMER_GROUP_0);
 
     if (timer_intr & TIMER_INTR_T0) {
